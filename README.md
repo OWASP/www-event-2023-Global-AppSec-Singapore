@@ -1,1 +1,1 @@
-Template for 2023 Events with just Basic Info
+2023 Global AppSec Singapore
