@@ -16,8 +16,8 @@
   items:
     - title: Exhibitor & Sponsorship Prospectus
       url: /assets/files/AppSec_Singapore_sponsorship.pdf
-    - title: Exhibitors & Sponsors
-      url: /sponsors/
+    #- title: Exhibitors & Sponsors
+      #url: /sponsors/
 - title: ABOUT
   url: /about/
   items:
