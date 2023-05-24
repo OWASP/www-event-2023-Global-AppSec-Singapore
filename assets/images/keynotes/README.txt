@@ -1,1 +1,1 @@
-Add Keynote Images Here
+hin_yock_louis_bdo_headshot.jpg
