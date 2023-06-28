@@ -2,10 +2,10 @@
   url: /
 - title: PROGRAM
   items:
-    - title: Schedule - coming soon
-      url : /schedule/
+    - title: Schedule 
+      url: https://owasp2023globalappsecsingap.sched.com/
     - title: Keynotes - coming soon
-      url : /
+      url: /
     - title: Training - coming soon
       url : /trainings/
     - title: Call for Trainers - Closed
