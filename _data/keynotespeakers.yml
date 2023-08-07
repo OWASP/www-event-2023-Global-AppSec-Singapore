@@ -1,19 +1,23 @@
  -  image: Asankhaya.jpg
     name: Asankhaya Sharma
-    title: Using LLMs and generative AI to fix software vulnerabilities
-    bio: >- 
-        Dr. Asankhaya Sharma is the co-founder and Chief Technology Officer at Patched.codes, a deep-tech startup with the vision to automatically fix every software vulnerability in code. Dr. Sharma is a well known technology expert, author, and public speaker. He has more than 15 years of experience in the technology and software development fields holding technical leadership roles at startups and large enterprises.
+    title: Using LLMs and Generative AI to Fix Software Vulnerabilities
+    bio: >-
+        Dr. Asankhaya Sharma is the co-founder and Chief Technology Officer at Patched.codes, a deep-tech startup with the vision to automatically fix 
+        every software vulnerability in code. Dr. Sharma is a well known technology expert, author, and public speaker. He has more than 15 years of 
+        experience in the technology and software development fields holding technical leadership roles at startups and large enterprises.
 
-        Prior to Patched.codes he was the global director of innovation and incubation at Veracode, an application security company. Before that, he was the head of R&D at SourceClear, acquired by CA Technologies in 2018, the first software security company focussed on open-source security and software supply chain.
+        Prior to Patched.codes he was the global director of innovation and incubation at Veracode, an application security company. Before that, he was 
+        the head of R&D at SourceClear, acquired by CA Technologies in 2018, the first software security company focussed on open-source security and 
+        software supply chain.
 
-        He has a PhD in Computer Science from the National University of Singapore, NUS, and has been an Adjunct Professor at the Singapore Management University, SMU, and the Singapore Institute of Technology, SIT.
+        He has a PhD in Computer Science from the National University of Singapore, NUS, and has been an Adjunct Professor at the Singapore Management
+        University, SMU, and the Singapore Institute of Technology, SIT.
     subject: 
-    abstract: Large enterprises struggle with software vulnerabilities: complex systems, slow patching, and poor risk prioritisation lead to security weaknesses, breaches, and data exposure. In this talk, we will show how one can leverage recent advances in LLMs and generative AI to create and validate private, secure and multiple file fixes that rival even expert developers. State of the art, SOTA, AI open-source models, like StarCoder, for code generation and assistance can enable enterprises to securely and privately remediate vulnerabilities in applications without worrying about risks of using OpenAI APIs. We can now empower security and operations teams to go beyond monitoring and finding issues to being able to actually fix them, even when they do not have developer experience or access. In the near future, we foresee a world where developers are no longer the sole bearers of the application security burden - A DevLess, developer-less, Security world.
-# - image: brook_schoenfield.jpg
-#   name: Brook S.E. (Stephan Eric) Schoenfield
-#   title: Truly Global AppSec
-#   bio: >- 
-#        Books by Brook S.E. Schoenfield include Building In Security At Agile Speed (Auerbach, 2021, co-authored with James Ransome), Secrets Of A Cyber            Security Architect (Auerbach, 2019) and Securing Systems: Applied Security Architecture and Threat Models (CRC Press, 2015). He co-authored The            Threat Modeling Manifesto (2020), Avoiding the Top 10 Security Design Flaws (IEEE, 2014) and Tactical Threat Modeling (SAFECode, 2017). He has              taught 100’s of security architects, and 1000’s have attended his threat modelling trainings. He technically led five AppSec/software security              programs and 4 consulting practices. Mr. Schoenfield is CTO, Resilient Software Security and True Positives' Chief Software Security Strategist. He helps organizations and technical leaders improve their software security practices. He also teaches at the University of Montana.
-#   #subject: 
-#   abstract: >-
-#             Humankind are deep down the software rabbit hole. Billions of us depend upon software that doesn't expose each of us to undue risk. Our                     dependence reaches far beyond those of us rich enough to work from cafes. Herders and subsistence farmers rely on their mobile phones for                   critical services even if these people live outside the "internet bubble". Who writes this software? Tens of millions of programmers across the             globe. Most of these do not work at "Enterprises" or even SMBs (Small Medium Businesses). And yet, every single one of these programmers can               add to our collective AppSec burden, i.e., exploitable conditions. If AppSec is to be truly global, we must embrace the challenges of a world               of software and software developers in order to truly be "global".
+    abstract: >-
+        Large enterprises struggle with software vulnerabilities; complex systems, slow patching, and poor risk prioritisation lead to security weaknesses, 
+        breaches, and data exposure. In this talk, we will show how one can leverage recent advances in LLMs and generative AI to create and validate private, 
+        secure and multiple file fixes that rival even expert developers. State of the art, SOTA, AI open-source models, like StarCoder, for code generation 
+        and assistance can enable enterprises to securely and privately remediate vulnerabilities in applications without worrying about risks of using OpenAI 
+        APIs. We can now empower security and operations teams to go beyond monitoring and finding issues to being able to actually fix them, even when they do 
+        not have developer experience or access. In the near future, we foresee a world where developers are no longer the sole bearers of the application security 
+        burden - A DevLess, developer-less, Security world.
