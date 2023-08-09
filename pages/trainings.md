@@ -11,16 +11,12 @@ permalink: /trainings/
 
 ## Pricing SGD 1145.00
 <!--
-1-day course : $TBD<br>
-2-day course: $TBD<br>
-3-day course: $TBD<br>
+1-day course : $1145.00 SGD<br>
 
-All training will be held at the TBD
+All training will be held at Marina Bay Sands Singapore
 
 <br><br>
-3-day training courses will be held TBD<br>
-2-day training courses will be held TBD<br>
-1-day training courses will be held on TBD
+1-day training courses will be held on October 4, 2023
 -->
 
 <section class='training'>
