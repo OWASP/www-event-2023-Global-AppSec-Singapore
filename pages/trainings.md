@@ -9,7 +9,7 @@ permalink: /trainings/
 
 #### Training subject to change based on trainer availability and meeting the number of students per trainer request.
 
-## Pricing TBD
+## Pricing SGD 1145.00
 <!--
 1-day course : $TBD<br>
 2-day course: $TBD<br>
