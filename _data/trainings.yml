@@ -16,26 +16,26 @@
 #     - Name: Gian-Luca Frei
 #       Email: gian-luca.frei@zuehlke.com
 #       Image: /assets/images/trainers/
-#       Twitter: trainer_uno
 #       Biography: >-
 #           Gian-Luca Frei is an experienced Application Security Consultant based in Singapore, currently working at Zühlke. With a passion for security, Gian-Luca has a proven track record of securing systems with the highest security standards, including e-banking portals and health applications. He brings a wealth of knowledge and expertise in the field of application security, having worked in the industry for several years. Gian-Luca is also the founder and co-leader of the OWASP Application Gateway Project, which focuses on developing open-source tools to help secure web applications. In addition to his professional engagements, Gian-Luca is a researcher at heart. He has a keen interest in modern cryptographic protocols and has conducted extensive research in this field. His contributions have been recognized with the ISSS Excellence Award in 2019.
 #       TrainerId: trainer002
 #   Title: Don’t trust my input: Frontend Security for Developers and Testers
-#   URL: 
 #   SectionId: sku_IWAHBB
 #   Description: >-
-#       Description
+#       This training focuses entirely on frontend security. For one day we don't look at the backend; instead, we focus on exploiting vulnerabilities in the frontend application to target other users. The course covers various topics, including simple and advanced Cross-Site Scripting XXS, Same-Origin Policy, and browser-based defense mechanisms. Through this training, participants can gain a deeper understanding of frontend security, as well as the intricate behavior of web browsers.
+This course is highly beneficial for web developers who write frontend or full-stack code, as well as security specialists who primarily focus on backend attacks. Our instructors will teach you how to perform attacks using popular tools such as Burp or OWASP ZAP. We believe that conducting attacks ourselves is the best and most enjoyable way to learn about security. To facilitate this, we provide a lab environment that each participant can use during the training to explore artificial but realistic vulnerabilities. Additionally, we also discuss possible mitigations and how they can be implemented to enhance security.
 # - Type: Training
 #   Trainers: 
 #     - Name: Abdessamad Temmar
 #       Email: temmar.abdessamad@gmail.com
 #       Image: /assets/images/trainers/
-#       Twitter: trainer_uno
+#       Twitter: @abdel_tmr
 #       Biography: >-
 #           Abdessamad Temmar is an appsec engineer at an asset management french company, and an active contributor to the OWASP community. Previous speaking engagements includes both DevOps and Security/Hacking conferences. 
 #       TrainerId: trainer003
 #   Title: API Security Testing 101
-#   URL: 
 #   SectionId: sku_IWAHBB
 #   Description: >-
-#       Description
+#        In the digital era, APIs serve as critical components of our systems. However, their prominence also makes them prime targets for cyber-attacks and substantial data breaches.
+This comprehensive one-day training program has been designed to equip participants with an introduction of API security principles, vulnerabilities, and protective measures.
+The course is a blend of theoretical concepts, case studies derived from real-world incidents, and hands-on exercises. These exercises take the form of an engaging and competitive Capture The Flag challenge, and the winner will be crowned as API Security Champion.
