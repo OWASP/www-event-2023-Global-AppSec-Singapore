@@ -10,7 +10,8 @@
    Title: Hacking Modern Web Apps - Master the Future of Attack Vectors
    SectionId: sku_IWAHBB
    Description: >-
-       This course is a 100% hands-on deep dive into the OWASP Mobile Security Testing Guide (MSTG) and relevant items of the OWASP Mobile Application Security Verification Standard (MASVS). This course covers - and goes beyond - the OWASP Mobile Top Ten. Long are the days since web servers were run by perl scripts apps written in Delphi. What is common between Walmart, eBay, PayPal, Microsoft, LinkedIn, Google and Netflix? They all use Node.js JavaScript on the server. Modern Web apps share traditional attack vectors and also introduce new opportunities to threat actors. This course will teach you how to review modern web apps, showcasing Node.js but using techniques that will also work against any other web app platform. Ideal for Penetration Testers, Web app Developers as well as everybody interested in JavaScript/Node.js and Modern app stack security. All action, no fluff, improve your security analysis workflow and immediately apply these gained skills in your workplace, packed with exercises, extra-mile challenges and CTF, self-paced and suitable for all skill levels, with continued education via unlimited email support, lifetime access, step-by-step video recordings and interesting apps to practice, including all future updates for free.
+       This course is a 100% hands-on deep dive into the OWASP Mobile Security Testing Guide (MSTG) and relevant items of the OWASP Mobile Application Security Verification Standard (MASVS). This course covers - and goes beyond - the OWASP Mobile Top Ten. Long are the days since web servers were run by perl scripts apps written in Delphi. What is common between Walmart, eBay, PayPal, Microsoft, LinkedIn, Google and Netflix? They all use Node.js JavaScript on the server. Modern Web apps share traditional attack vectors and also introduce new opportunities to threat actors. 
+       This course will teach you how to review modern web apps, showcasing Node.js but using techniques that will also work against any other web app platform. Ideal for Penetration Testers, Web app Developers as well as everybody interested in JavaScript/Node.js and Modern app stack security. All action, no fluff, improve your security analysis workflow and immediately apply these gained skills in your workplace, packed with exercises, extra-mile challenges and CTF, self-paced and suitable for all skill levels, with continued education via unlimited email support, lifetime access, step-by-step video recordings and interesting apps to practice, including all future updates for free.
  - Type: Training
    Trainers: 
      - Name: Gian-Luca Frei
@@ -23,7 +24,7 @@
    SectionId: sku_IWAHBB
    Description: >-
        This training focuses entirely on frontend security. For one day we don't look at the backend; instead, we focus on exploiting vulnerabilities in the frontend application to target other users. The course covers various topics, including simple and advanced Cross-Site Scripting XXS, Same-Origin Policy, and browser-based defense mechanisms. Through this training, participants can gain a deeper understanding of frontend security, as well as the intricate behavior of web browsers.
-This course is highly beneficial for web developers who write frontend or full-stack code, as well as security specialists who primarily focus on backend attacks. Our instructors will teach you how to perform attacks using popular tools such as Burp or OWASP ZAP. We believe that conducting attacks ourselves is the best and most enjoyable way to learn about security. To facilitate this, we provide a lab environment that each participant can use during the training to explore artificial but realistic vulnerabilities. Additionally, we also discuss possible mitigations and how they can be implemented to enhance security.
+       This course is highly beneficial for web developers who write frontend or full-stack code, as well as security specialists who primarily focus on backend attacks. Our instructors will teach you how to perform attacks using popular tools such as Burp or OWASP ZAP. We believe that conducting attacks ourselves is the best and most enjoyable way to learn about security. To facilitate this, we provide a lab environment that each participant can use during the training to explore artificial but realistic vulnerabilities. Additionally, we also discuss possible mitigations and how they can be implemented to enhance security.
  - Type: Training
    Trainers: 
      - Name: Abdessamad Temmar
@@ -35,7 +36,7 @@ This course is highly beneficial for web developers who write frontend or full-s
        TrainerId: trainer003
    Title: API Security Testing 101
    SectionId: sku_IWAHBB
-#   Description: >-
-#        In the digital era, APIs serve as critical components of our systems. However, their prominence also makes them prime targets for cyber-attacks and substantial data breaches.
-This comprehensive one-day training program has been designed to equip participants with an introduction of API security principles, vulnerabilities, and protective measures.
-The course is a blend of theoretical concepts, case studies derived from real-world incidents, and hands-on exercises. These exercises take the form of an engaging and competitive Capture The Flag challenge, and the winner will be crowned as API Security Champion.
+   Description: >-
+        In the digital era, APIs serve as critical components of our systems. However, their prominence also makes them prime targets for cyber-attacks and substantial data breaches.
+        This comprehensive one-day training program has been designed to equip participants with an introduction of API security principles, vulnerabilities, and protective measures.
+        The course is a blend of theoretical concepts, case studies derived from real-world incidents, and hands-on exercises. These exercises take the form of an engaging and competitive Capture The Flag challenge, and the winner will be crowned as API Security Champion.
