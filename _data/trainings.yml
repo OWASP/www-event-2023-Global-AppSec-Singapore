@@ -40,3 +40,19 @@
         In the digital era, APIs serve as critical components of our systems. However, their prominence also makes them prime targets for cyber-attacks and substantial data breaches.
         This comprehensive one-day training program has been designed to equip participants with an introduction of API security principles, vulnerabilities, and protective measures.
         The course is a blend of theoretical concepts, case studies derived from real-world incidents, and hands-on exercises. These exercises take the form of an engaging and competitive Capture The Flag challenge, and the winner will be crowned as API Security Champion.
+- Type: Training
+   Trainers: 
+     - Name: John DiLeo
+       Email: john.dileo@gmail.com
+       Image: 
+       Twitter: @gr4ybeard
+       Biography: >-
+           Dr. John DiLeo is leader of the OWASP New Zealand Chapter and, in his day job, is a lead Solution Architect at IriusRisk, covering the Asia/Pacific region. Before joining IriusRisk, John led the Application Security Services team at Datacom Systems NZ, providing support and guidance to clients in launching, managing, and maturing their enterprise software assurance programs.
+           Before turning to full-time roles in security, John was active as a Java enterprise architect and Web application developer. In earlier lives, John has been a full-time professor and had specialised in developing discrete-event simulations of large distributed systems. 
+           John is on the core team for the OWASP Software Assurance Maturity Model SAMM Project, leads the OWASP State of AppSec Survey Project, and is a member of the OWASP Education and Training Committee. 
+       TrainerId: trainer004
+   Title: Threat Modelling: From None to Done
+   SectionId: sku_IWAHBB
+   Description: >-
+        This session offers participants an interactive introduction to application Threat Modeling and its use as a technique for identifying consequential, Yes, and..., security requirements. A key focus of this course is applying Threat Modeling as a daily practice within your organization's software development processes, to improve the overall quality and security of the applications you build.  
+        In addition to addressing key questions around the Five Ws, the presentation will cover the instructor's Seven Questions approach, adapted from Adam Shostack's Four Questions to developing a model, and include several interactive exercises to provide direct experience. A brief review of available modelling tools will also be included, along with a discussion of the opportunities and challenges for introducing Threat Modelling into your SDLC.
