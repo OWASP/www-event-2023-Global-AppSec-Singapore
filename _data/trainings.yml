@@ -40,7 +40,7 @@
         In the digital era, APIs serve as critical components of our systems. However, their prominence also makes them prime targets for cyber-attacks and substantial data breaches.
         This comprehensive one-day training program has been designed to equip participants with an introduction of API security principles, vulnerabilities, and protective measures.
         The course is a blend of theoretical concepts, case studies derived from real-world incidents, and hands-on exercises. These exercises take the form of an engaging and competitive Capture The Flag challenge, and the winner will be crowned as API Security Champion.
-- Type: Training
+ - Type: Training
    Trainers: 
      - Name: John DiLeo
        Email: john.dileo@gmail.com
