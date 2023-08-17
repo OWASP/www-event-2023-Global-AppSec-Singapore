@@ -44,6 +44,7 @@
   Trainers: 
     - Name: John DiLeo
       Email: john.dileo@gmail.com
+      Image: 
       Twitter: @gr4ybeard
       Biography: >-
            Dr. John DiLeo is leader of the OWASP New Zealand Chapter and, in his day job, is a lead Solution Architect at IriusRisk, covering the Asia/Pacific region. Before joining IriusRisk, John led the Application Security Services team at Datacom Systems NZ, providing support and guidance to clients in launching, managing, and maturing their enterprise software assurance programs.
