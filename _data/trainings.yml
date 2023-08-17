@@ -2,7 +2,7 @@
   Trainers: 
     - Name: Ashwin Shenoi
       Email: ashwin@7asecurity.com
-      Image: ashwin_shenoi.jpg
+      Image: /assets/images/trainers/ashwin_shenoi.jpg
       Twitter: c3rb3ru5
       Biography: >-
            Ashwin Shenoi is an avid application security enthusiast who currently works as a Senior Security Engineer at CRED and likes to break into applications and automate stuff. He is part of team bi0s, the top ranked CTF team according to CTFTime. He heads the Web Security team at team bi0s and is also the core challenge setter and organiser of the various editions of InCTF and the other CTFs organised by team bi0s. He is also a Security Trainer with 7ASecurity and has presented talks and security trainings in various security conferences including BlackHat Asia, BlackHat USA, BlackHat Europe, Nullcon, ThreatCon etc. He does a fair share of breaking into open source applications services and has also been awarded several CVEs for the same.
@@ -29,7 +29,7 @@
   Trainers: 
     - Name: Abdessamad Temmar
       Email: temmar.abdessamad@gmail.com
-      Image: AbdessamadTemmar.jpeg
+      Image: /assets/images/trainers/AbdessamadTemmar.jpeg
       Twitter: abdel_tmr
       Biography: >-
            Abdessamad Temmar is an appsec engineer at an asset management french company, and an active contributor to the OWASP community. Previous speaking engagements includes both DevOps and Security/Hacking conferences. 
