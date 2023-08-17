@@ -51,7 +51,7 @@
            Before turning to full-time roles in security, John was active as a Java enterprise architect and Web application developer. In earlier lives, John has been a full-time professor and had specialised in developing discrete-event simulations of large distributed systems. 
            John is on the core team for the OWASP Software Assurance Maturity Model SAMM Project, leads the OWASP State of AppSec Survey Project, and is a member of the OWASP Education and Training Committee. 
       TrainerId: trainer004
-  Title: Threat Modelling: From None to Done
+  Title: "Threat Modelling: From None to Done"
   SectionId: sku_IWAHBB
   Description: >-
         This session offers participants an interactive introduction to application Threat Modeling and its use as a technique for identifying consequential, Yes, and..., security requirements. A key focus of this course is applying Threat Modeling as a daily practice within your organization's software development processes, to improve the overall quality and security of the applications you build.  
