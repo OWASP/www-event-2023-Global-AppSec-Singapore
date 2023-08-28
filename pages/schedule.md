@@ -6,7 +6,21 @@ permalink: /schedule/
 
 ---
 
-TBD
-<!--
-<a id="sched-embed" href="https://owasp2023globalappsecdc.sched.com/" data-sched-sidebar="no">View the OWASP 2023 Global AppSec DC schedule &amp; directory.</a><script type="text/javascript" src="https://owasp2023globalappsecdc.sched.com/js/embed.js"></script>
--->
+
+    <div>
+        <div title="Whova event and conference app" id="whova-agendawidget">
+            <p id="whova-loading">Loading...</p>
+        </div>
+        <script src="https://whova.com/static/frontend/xems/js/embed/embedagenda.js?eid=ZNk4IrprrjY59vB8oh4AnxS1AR86-tmwfzGYK3x2rcs%3D&host=https://whova.com" type="text/javascript"  id="embeded-agenda-script">
+        </script>
+        <div id="whova-wrap" class="whova-wrap-class">
+            Powered By
+            <a class="brandlink" target="_blank" href="https://whova.com">
+                <b>Whova</b>
+            </a>
+            <br/>
+            <a class="whova-emslink brandanchorlink" target="_blank" href="https://whova.com/blog/free-event-planning-software-make-you-rockstar/">
+                event planning tools
+            </a>
+        </div>
+    </div>
