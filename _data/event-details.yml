@@ -3,10 +3,10 @@ pricing-title: Pricing
 dates: 04 October - 05 October 2023
 conference: 05 October
 training: 04 October
-registration_url: https://www.eventbrite.com/e/601700150347
+registration_url: https://whova.com/portal/registration/owasp_202310/
 logo_url: https://owasp.org/
-venue: Marina Bay Sands Singapore
-location: 10 Bayfront Avenue, Singapore 018956
+venue: Whova Virtual Platform
+registration_url: https://owaspglobalsingapore.events.whova.com/sign_in
 background: SingaporeLogo.png
 background-style: 'linear-gradient(to right, #242158 50%, #84282b 50%)'
 background-padding: 0em 2em 0em 2em
@@ -15,5 +15,5 @@ color: 242158
 analytics: AW-11165665983
 registration_open: false
 pitch: >-
-    Join us for the first 2023 Global AppSec Singapore held at [Marina Bay Sands Singapore](https://www.marinabaysands.com//?utm_source=google&utm_medium=GMB&utm_campaign=hotel_info_main). Designed for private and public sector infosec professionals, OWASP conference equips developers, defenders, and advocates to build a more secure web.  We are offering three educational **1-day training courses on 04-October that requires a separate ticket purchase followed by the conference and exhibition on 05-October.  Join us for leading application security technologies, speakers, prospects, and community, in a unique event that will build on everything you already know to expect from an OWASP Global Conference. With amazing speakers and numerous networking opportunities, this is an event you will not want to miss.
+    Join us for the VIRTUAL 2023 Global AppSec Singapore held on the [Whova Event Platform](https://owaspglobalsingapore.events.whova.com/sign_in). Designed for private and public sector infosec professionals, OWASP conference equips developers, defenders, and advocates to build a more secure web.  We are offering three educational **1-day training courses on 04-October that requires a separate ticket purchase followed by the conference and exhibition on 05-October.  Join us for leading application security technologies, speakers, prospects, and community, in a unique event that will build on everything you already know to expect from an OWASP Global Conference. With amazing speakers and numerous networking opportunities, this is an event you will not want to miss.
 image_attribution: Hugo Costa
