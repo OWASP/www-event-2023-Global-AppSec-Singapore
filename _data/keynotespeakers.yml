@@ -25,18 +25,25 @@
   name: Bernard Tan
   title: Defining and Embracing The Software Fragility
   bio: >-
-      Bernard is a Director in GovTech leading the GovTech Cybersecurity consultancy team to provide risk-based consultancy services to architect the cybersecurity of Nationwide and Governmentwide strategic projects that have application services span across on-premise, hybrid and commercial cloud environment.
+        Bernard is a Director in GovTech leading the GovTech Cybersecurity consultancy team to provide risk-based consultancy services to architect the cybersecurity 
+        of Nationwide and Governmentwide strategic projects that have application services span across on-premise, hybrid and commercial cloud environment.
 
-Through his 18+ years in the public sector, he has undertaken various cybersecurity roles and projects in areas of Homeland security. He held key roles such as Chief Information Security Officer (CISO) and advised on various Home Teams wide projects, established common ICT Security Governance and Security Architecture. He was also appointed as security advisor in audit and risk committee to provide security guidance to the home team's audit steering committee.
+        Through his 18+ years in the public sector, he has undertaken various cybersecurity roles and projects in areas of Homeland security. He held key roles such as 
+        Chief Information Security Officer (CISO) and advised on various Home Teams wide projects, established common ICT Security Governance and Security Architecture. 
+        He was also appointed as security advisor in audit and risk committee to provide security guidance to the home team's audit steering committee.
 
-He is certified ISC2 (CISSP, ISSMP, ISSEP, ISSAP, CCSP, CSSLP, CGRC), ISACA (CISA, CDSPE), ECCouncil (CEH, CHFI), AWS(SAP, SAA, Security Speciality), Microsoft (Cybersecurity Architect Expert, Azure Security Engineer Associate), Scrum Alliance(CSM, CSPO), API Academy (Security Architect, Product manager).
+        He is certified ISC2 (CISSP, ISSMP, ISSEP, ISSAP, CCSP, CSSLP, CGRC), ISACA (CISA, CDSPE), ECCouncil (CEH, CHFI), AWS(SAP, SAA, Security Speciality), Microsoft 
+        (Cybersecurity Architect Expert, Azure Security Engineer Associate), Scrum Alliance(CSM, CSPO), API Academy (Security Architect, Product manager).
   subject:
   abstract: >-
-       What makes software great? Is it because its anatomy can be simple, complex, or both? Or could it be because of its soft nature, or fragile if you wish? While these are positive characteristics, they inadvertently increase a software's attackable surface area.
+       What makes software great? Is it because its anatomy can be simple, complex, or both? Or could it be because of its soft nature, or fragile if you wish? While these 
+       are positive characteristics, they inadvertently increase a software's attackable surface area.
 
-As software becomes more complex, fragile and "softer", cyber adversaries have more opportunities to exploit and cause damage. Developers must balance between developing software quickly and securely while ensuring its fragility is not exploited.
+       As software becomes more complex, fragile and 'softer', cyber adversaries have more opportunities to exploit and cause damage. Developers must balance between 
+       developing software quickly and securely while ensuring its fragility is not exploited.
  
-This sharing will discuss the different software fragility archetypes and explore the "Wellness" option to strengthen a software's anatomy with a sustainable, secure, robust foundation.
+       This sharing will discuss the different software fragility archetypes and explore the "Wellness" option to strengthen a software's anatomy with a sustainable, secure, 
+       robust foundation.
   
   
   
