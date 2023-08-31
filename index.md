@@ -1,6 +1,6 @@
 ---
 
-title: Global AppSec Template 2023
+title: Global AppSec Singapore 2023
 layout: event-x
 
 ---
