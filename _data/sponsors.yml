@@ -7,4 +7,9 @@
   name: IriusRisk
   url: https://www.iriusrisk.com/
   #backgroundSize: 125px
-  type: Gold
+  type: Diamond
+- logo: /assets/images/sponsors/f5-logo-rgb.ai
+  name: F5
+  url: https://www.f5.com/
+  #backgroundSize: 125px
+  type: Diamond
