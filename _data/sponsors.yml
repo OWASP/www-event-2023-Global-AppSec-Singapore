@@ -13,3 +13,8 @@
   url: https://www.f5.com/
   #backgroundSize: 125px
   type: Diamond
+- logo: /assets/images/sponsors/BSidesSingaporeLogo.png
+  name: BSides Singapore
+  url: https://bsidessg.org/sponsorship/
+  #backgroundSize: 125px
+  type: Supporting Partner
